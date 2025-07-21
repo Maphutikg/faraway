@@ -1,7 +1,7 @@
 # Table of contents and R scripts for 3rd Edition of Linear Models with R
 
 Click the heading to get individual scripts 
-or [download a zip file of all the scripts](scripts3/lmr3rscripts.zip)
+or [download a zip file of all the scripts](scripts3/lmr3scripts.zip)
 
 1. [Introduction](scripts3/intro.R)
   - Before You Start 
